@@ -1,6 +1,6 @@
 {
   "name": "ned-lint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Linter for ned.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "name": "Johnny Hauser",
     "email": "johnnyhauser@gmail.com"
   },
-  "license": "VOL",
+  "license": "CC0-1.0",
   "dependencies": {
     "babel-eslint": "^7.0.0",
     "chalk": "^1.1.3",
